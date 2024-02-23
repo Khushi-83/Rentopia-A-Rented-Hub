@@ -1,6 +1,8 @@
 /* Style for the navigation bar */
 .Navigation {
     background-color: #333; /* Background color */
+    display: flex;
+    gap: 10px;
     overflow: hidden; 
 }
 
@@ -9,7 +11,7 @@
     float: left;
     display: block;
     color: white; /* Text color */
-    text-align: cent
+    text-align: center;
     padding: 14px 16px; /* Padding */
     text-decoration: none; /* Remove underline */
 }
@@ -22,7 +24,7 @@
 
 /* Style for the active link */
 .Navigation a.active {
-    background-color: #4CAF50; /* Active link background color */
+    background-color: #4bdbd9; /* Active link background color */
     color: white;
 }
 /* Style for the search form */
@@ -40,7 +42,7 @@
 
 .search-form button {
     padding: 6px 10px;
-    background-color: #4CAF50;
+    background-color: #4bdbd9;
     color: white;
     border: none;
     border-radius: 3px;
@@ -48,5 +50,5 @@
 }
 
 .search-form button:hover {
-    background-color: #45a049;
+    background-color: #4bdbd9;
 }
