@@ -52,3 +52,96 @@
 .search-form button:hover {
     background-color: #4bdbd9;
 }
+
+body{
+    background-image: url(18132521.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.buy-home{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    padding-left: 125px;
+}
+
+.buy-home img{
+    height: 115px;
+    width: 115px;;
+}
+
+.buy-home p {
+    color: white;
+    padding-left: 35px;
+}
+
+.rent-home {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    padding-left: 60px;
+}
+
+.rent-home img {
+    height: 120px;
+    width: 160px;
+}
+
+
+.rent-home p {
+    color: white;
+    padding-left: 35px;
+}
+
+.Invest {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    padding-left: 60px;
+}
+
+.Invest img {
+    height: 115px;
+    width: 115px;
+}
+
+.Invest p {
+    color: white;
+    padding-left: 45px;
+}
+
+.sell-property {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    padding-left: 60px;
+}
+
+.sell-property img {
+    height: 115px;
+    width: 155px;
+}
+
+.sell-property p { 
+    color: white;
+    padding-left: 35px;
+}
+
+.pg {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    padding-left: 60px;
+}
+
+.pg img {
+    height: 115px;
+    width: 155px;
+}
+
+.pg p { 
+    color: white;
+    padding-left: 35px;
+}
+
+
